@@ -1,4 +1,4 @@
-# CA3 - Inractve Portfolio
+# CA3 - Interactive Portfolio
 Created by Tabita Lopes Paradizzo - Student ID - 19551
 
 # Project Summary
