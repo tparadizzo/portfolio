@@ -1,6 +1,5 @@
 # CA3 - Inractve Portfolio
-Created by Tabita Lopes Paradizzo
-Student ID - 19551
+Created by Tabita Lopes Paradizzo - Student ID - 19551
 
 # Project Summary
     For this project I built a responsive portfolio website using HTML, CSS and JavaScript. In the portfolio I talk a few things about me and my skills.
